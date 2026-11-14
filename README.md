@@ -13,6 +13,10 @@ live order tracking, editable profile and addresses, and dark mode.
 
 <br />
 
+**[Get every new Flutter app by email](https://flutterzip.com/#newsletter)** · a new app most days, unsubscribe any time
+
+<br />
+
 [![Website](https://img.shields.io/badge/website-flutterzip.com-41671B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flutterzip.com)
 [![Instagram](https://img.shields.io/badge/instagram-@flutter__zip-41671B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flutter_zip)
 
